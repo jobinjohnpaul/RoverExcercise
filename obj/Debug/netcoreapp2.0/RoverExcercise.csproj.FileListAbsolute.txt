@@ -1,0 +1,11 @@
+C:\Apps\From USB\RoverExcercise\RoverExcercise\bin\Debug\netcoreapp2.0\RoverExcercise.deps.json
+C:\Apps\From USB\RoverExcercise\RoverExcercise\bin\Debug\netcoreapp2.0\RoverExcercise.runtimeconfig.json
+C:\Apps\From USB\RoverExcercise\RoverExcercise\bin\Debug\netcoreapp2.0\RoverExcercise.runtimeconfig.dev.json
+C:\Apps\From USB\RoverExcercise\RoverExcercise\bin\Debug\netcoreapp2.0\RoverExcercise.dll
+C:\Apps\From USB\RoverExcercise\RoverExcercise\bin\Debug\netcoreapp2.0\RoverExcercise.pdb
+C:\Apps\From USB\RoverExcercise\RoverExcercise\obj\Debug\netcoreapp2.0\RoverExcercise.csprojResolveAssemblyReference.cache
+C:\Apps\From USB\RoverExcercise\RoverExcercise\obj\Debug\netcoreapp2.0\RoverExcercise.csproj.CoreCompileInputs.cache
+C:\Apps\From USB\RoverExcercise\RoverExcercise\obj\Debug\netcoreapp2.0\RoverExcercise.AssemblyInfoInputs.cache
+C:\Apps\From USB\RoverExcercise\RoverExcercise\obj\Debug\netcoreapp2.0\RoverExcercise.AssemblyInfo.cs
+C:\Apps\From USB\RoverExcercise\RoverExcercise\obj\Debug\netcoreapp2.0\RoverExcercise.dll
+C:\Apps\From USB\RoverExcercise\RoverExcercise\obj\Debug\netcoreapp2.0\RoverExcercise.pdb
